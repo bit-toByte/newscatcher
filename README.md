@@ -1,4 +1,4 @@
-# Newscatcher
+# Newsgrater
 **Programmatically collect normalized news from (almost) any website.**
 
 Filter by **topic**, **country**, or **language**.
